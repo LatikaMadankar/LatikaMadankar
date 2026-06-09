@@ -6,13 +6,13 @@ I'm a Computer Science student who enjoys transforming ideas into practical soft
 
 ##  Projects
 
-🔹 **Mammo AI** 
+🔹 **Mammo AI**  
 AI-powered mammogram analysis system for early breast cancer screening assistance.
 
-🔹 **[AI Compiler](https://github.com/LatikaMadankar/AI-compiler)**  
+🔹 **AI Compiler**  
 Intelligent code analysis tool that provides suggestions and error detection.
 
-🔹 **[Cloud Sentinel](https://github.com/LatikaMadankar/CloudSentinel)** 
+🔹 **Cloud Sentinel**  
 Cloud security monitoring platform focused on threat detection and security analytics.
 
 ##  Tech Stack

@@ -4,21 +4,18 @@ Java | MERN Stack & AI Builder
 
 I'm a Computer Science student who enjoys transforming ideas into practical software solutions. From solving algorithmic challenges to building AI-powered applications, I'm always exploring technology to create real-world impact.
 
-## 🚀 Projects
+##  Projects
 
-🔹 Mammo AI 
+🔹 **Mammo AI** 
+AI-powered mammogram analysis system for early breast cancer screening assistance.
 
-AI-powered mammogram analysis system designed to assist in early breast cancer screening.
+🔹 **[AI Compiler](https://github.com/LatikaMadankar/AI-compiler)**  
+Intelligent code analysis tool that provides suggestions and error detection.
 
-🔹 Cloud Sentinel
+🔹 **[Cloud Sentinel](https://github.com/LatikaMadankar/CloudSentinel)** 
+Cloud security monitoring platform focused on threat detection and security analytics.
 
-Cloud security monitoring platform focused on threat detection and system protection.
-
-🔹 AI Compiler
-
-Intelligent coding assistant that analyzes code and provides smart suggestions.
-
-## 💻 Tech Stack
+##  Tech Stack
 
 - Java
 - Python, AI/ML, NLP
@@ -32,6 +29,6 @@ Intelligent coding assistant that analyzes code and provides smart suggestions.
 * AI and Large Language Models
 * Cloud Computing & Security
 
-## 🎯 Mission
+##  Mission
 
 To become a software engineer who builds scalable products that combine software engineering, AI, and cloud technologies to solve meaningful problems.

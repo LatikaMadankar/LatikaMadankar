@@ -75,4 +75,4 @@ Cloud security monitoring platform for detecting threats, suspicious activities,
 
 ## 📫 Connect With Me 
 
-LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/latika-madankar-9a51832a0/)
+[LinkedIn](https://www.linkedin.com/in/latika-madankar-9a51832a0/)

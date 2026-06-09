@@ -1,78 +1,38 @@
-# Hi 👋, I'm Latika Madankar
+# Hi, I'm Latika Madankar 👋
 
-### Software Developer | Java | Full Stack Web Development
+## Java | MERN Stack & AI Builder
 
-I'm a Computer Science student passionate about software development, problem solving, and building web applications.
+I'm a Computer Science student who enjoys transforming ideas into practical software solutions. From solving algorithmic challenges to building AI-powered applications, I'm always exploring technology to create real-world impact.
 
----
+## 🚀 Projects
 
-## 🚀 About Me
+🔹 Mammo AI
+AI-powered mammogram analysis system designed to assist in early breast cancer screening.
 
-- 🎓 BTech CSE Student
-- 💻 Learning Full Stack Web Development
-- ☕ Strong interest in Java Development
-- 🧠 Practicing DSA regularly
-- 🌱 Currently learning AI/ML
+🔹 Cloud Sentinel
+Cloud security monitoring platform focused on threat detection and system protection.
 
----
+🔹 AI Compiler
+Intelligent coding assistant that analyzes code and provides smart suggestions.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Languages
-Java, JavaScript, HTML, CSS, SQL, Node.js, React
+☕ Java
+🤖 Python, AI/ML, NLP
+🌐 JavaScript, React, Node.js
+🗄️ MySQL & MongoDB
+🔧 Git & GitHub
 
-### Tools & Technologies
-Git, GitHub, VS Code, MySQL, MongoDB
+## 🌱 Currently Exploring
 
----
+* Advanced Data Structures & Algorithms
+* AI and Large Language Models
+* Cloud Computing & Security
 
-## 📈 GitHub Stats
+## 💬 Ask Me About
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+Java • DSA • Web Development • Databases • Project Building
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 🎯 Mission
 
----
-
-## 📂 Projects
-
-### 🤖 Mammo AI
-AI-powered system for mammogram analysis and breast cancer detection assistance.
-
-**Tech Stack:** Python, Machine Learning, Computer Vision
-
-**Key Features:**
-- Medical image analysis
-- Detection assistance
-- Automated prediction pipeline
-
----
-
-### ⚡ AI Compiler
-An intelligent compiler assistant that helps analyze code, detect errors, and provide optimization suggestions.
-
-**Tech Stack:** Java/Python, NLP, AI
-
-**Key Features:**
-- Code analysis
-- Error detection
-- Optimization recommendations
-
----
-
-### ☁️ Cloud Sentinel
-Cloud security monitoring platform for detecting threats, suspicious activities, and security vulnerabilities.
-
-**Tech Stack:** Java, Cloud Technologies, Security Tools
-
-**Key Features:**
-- Threat monitoring
-- Security alerts
-- Log analysis
-- Dashboard visualization
-
----
-
-## 📫 Connect With Me 
-
-[LinkedIn](https://www.linkedin.com/in/latika-madankar-9a51832a0/)
+To become a software engineer who builds scalable products that combine software engineering, AI, and cloud technologies to solve meaningful problems.

@@ -7,16 +7,16 @@ I'm a Computer Science student who enjoys transforming ideas into practical soft
 ##  Projects
 
 🔹 **LexoAI-ChatBot**  
-AI-powered virtual assistant that answers user questions instantly through natural, human-like conversations.
-🔗 [View Project](https://github.com/LatikaMadankar/LexoAI-ChatBot)
+AI-powered virtual assistant that answers user questions instantly through natural, human-like conversations.  
+  🔗 [View Project](https://github.com/LatikaMadankar/LexoAI-ChatBot)
 
 🔹 **TongueTwist**  
-Multilingual web app that improves pronunciation by practicing speech-based tongue twisters with real-time accuracy scoring.
-🔗 [View Project](https://github.com/LatikaMadankar/TongueTwist)
+Multilingual web app that improves pronunciation by practicing speech-based tongue twisters with real-time accuracy scoring.  
+  🔗 [View Project](https://github.com/LatikaMadankar/TongueTwist)
 
 🔹 **Cloud Sentinel**  
-Cloud security monitoring platform focused on threat detection and security analytics.
-🔗 [View Project](https://github.com/LatikaMadankar/CloudSentinel)
+Cloud security monitoring platform focused on threat detection and security analytics.  
+  🔗 [View Project](https://github.com/LatikaMadankar/CloudSentinel)
 
 ##  Tech Stack
 

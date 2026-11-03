@@ -7,10 +7,10 @@ I'm a Computer Science student who enjoys transforming ideas into practical soft
 ##  Projects
 
 🔹 **Mammo AI**  
-AI-powered mammogram analysis system for early breast cancer screening assistance.
+AI-powered virtual assistant that answers user questions instantly through natural, human-like conversations.
 
-🔹 **AI Compiler**  
-Intelligent code analysis tool that provides suggestions and error detection.
+🔹 **TongueTwist**  
+Multilingual web app that improves pronunciation by practicing speech-based tongue twisters with real-time accuracy scoring.
 
 🔹 **Cloud Sentinel**  
 Cloud security monitoring platform focused on threat detection and security analytics.

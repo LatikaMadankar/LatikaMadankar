@@ -14,9 +14,9 @@ AI-powered virtual assistant that answers user questions instantly through natur
 Multilingual web app that improves pronunciation by practicing speech-based tongue twisters with real-time accuracy scoring.  
   🔗 [View Project](https://github.com/LatikaMadankar/TongueTwist)
 
-🔹 **Cloud Sentinel**  
-Cloud security monitoring platform focused on threat detection and security analytics.  
-  🔗 [View Project](https://github.com/LatikaMadankar/CloudSentinel)
+🔹 **AI-Based Source Code Vulnerability Detection System**  
+A hybrid security analysis tool that detects common vulnerabilities in Java source code using Machine Learning + rule-based analysis.  
+  🔗 [View Project](https://github.com/LatikaMadankar/AI-Based-Source-Code-Vulnerability-Detector)
 
 ##  Tech Stack
 
